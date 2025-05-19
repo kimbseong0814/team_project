@@ -12,7 +12,7 @@
 
 ## 📷 시스템 구성도
 
-![스마트홈 구성도](https://github.com/사용자이름/레포지토리이름/blob/브랜치명/이미지경로.png?raw=true)
+![스마트홈 구성도](https://github.com/byungseongkim/smart-home/blob/main/images/system.png?raw=true)
 
 
 ## 🎬 SMART_HOME 시연 영상
