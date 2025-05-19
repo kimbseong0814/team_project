@@ -10,9 +10,10 @@
 2. Arduino – Auto / Manual에 따른 LED On / Off
 3. Sensor.c – 버튼 입력을 통한 sensor 코드 제어
 
-## 📷 시스템 구성도
+## 🖼 시스템 구성도
 
 ![스마트홈 구성도](https://github.com/byungseongkim/smart-home/blob/main/images/system.png?raw=true)
+
 
 
 ## 🎬 SMART_HOME 시연 영상
