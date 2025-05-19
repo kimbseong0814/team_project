@@ -15,7 +15,6 @@
 ![스마트홈 구성도](https://github.com/byungseongkim/smart-home/blob/main/images/system.png?raw=true)
 
 
-
 ## 🎬 SMART_HOME 시연 영상
 
 ### 📽 발표 영상  
